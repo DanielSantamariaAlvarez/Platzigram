@@ -1,4 +1,4 @@
 # Platzigram
 
-Practicas para entender y aprender a utilizar Django \n
-elaboraré mi primera aplicacion con Django
+Practicas para entender y aprender a utilizar Django. 
+Elaboraré mi primera aplicacion con Django
